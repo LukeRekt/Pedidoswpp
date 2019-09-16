@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104786077718",
+    "firebase_url": "https://newagent-rysyjc.firebaseio.com",
+    "project_id": "newagent-rysyjc",
+    "storage_bucket": "newagent-rysyjc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104786077718:android:33397b2de017b79a",
+        "android_client_info": {
+          "package_name": "com.luke.listadepedidos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104786077718-2p5mqg9n3d1nv511vdon37q16ub4qajh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luke.listadepedidos",
+            "certificate_hash": "355864d1f48ccaa296a2d2152af9cd0e50ce176e"
+          }
+        },
+        {
+          "client_id": "104786077718-r3bmgosko6s7k9n21rn6tqiu41a8g8ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCugNYqpVLOhJYg8o98suIdSWGpTqcsgTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104786077718-r3bmgosko6s7k9n21rn6tqiu41a8g8ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
